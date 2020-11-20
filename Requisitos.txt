@@ -1,0 +1,17 @@
+pip3 install pyscreenshot
+
+pip3 install pillow
+
+pip3 install pytesseract
+
+pip3 install tesseract
+
+pip3 install tf
+
+pip3 install keras
+
+pip3 install imgaug
+
+pip3 install product
+
+pip3 install pywin32
